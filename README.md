@@ -2,8 +2,8 @@
 
 🌟 A Bit About Me:
 
-    Background: Proudly served as a Communications Supervisor in the USMC, followed by a multifaceted career in law enforcement. 
-    Now, I'm embracing the challenges and opportunities in the world of technology.
+    Background: Proudly served as a Communications Supervisor in the USMC, followed by a multifaceted career 
+    in law enforcement. Now, I'm embracing the challenges and opportunities in the world of technology.
     Interests: Passionate about all things tech, a die-hard hockey fan (go Ducks!), and 
     an aerial photography enthusiast with my DJI Mini Pro 3.
 
@@ -18,11 +18,13 @@
 
     Short-Term: Gain hands-on experience through volunteer projects and small collaborations, 
     especially in environments where I can contribute meaningfully while growing my skill set.
-    Long-Term: Aiming to carve out a niche in Cyber Security, leveraging my unique past experiences and growing tech expertise.
+    Long-Term: Aiming to carve out a niche in Cyber Security, leveraging my unique past experiences 
+    and growing tech expertise.
 
 🤝 Open to Collaborations:
 
-    Keen on projects where I can both contribute and learn. Eager to engage in the tech community and collaborate on meaningful initiatives.
+    Keen on projects where I can both contribute and learn. Eager to engage in the tech community 
+    and collaborate on meaningful initiatives.
 
 📫 Connect With Me:
 
