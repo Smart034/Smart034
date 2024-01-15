@@ -4,7 +4,8 @@
 
     Background: Proudly served as a Communications Supervisor in the USMC, followed by a multifaceted career in law enforcement. 
                 Now, I'm embracing the challenges and opportunities in the world of technology.
-    Interests: Passionate about all things tech, a die-hard hockey fan (go Ducks!), and an aerial photography enthusiast with my DJI Mini Pro 3.
+    Interests: Passionate about all things tech, a die-hard hockey fan (go Ducks!), and 
+               an aerial photography enthusiast with my DJI Mini Pro 3.
 
 💻 My Tech Adventure:
 
@@ -26,7 +27,7 @@
 
 📫 Connect With Me:
 
-    LinkedIn: [LinkedIn: Stephanie Martinez](https://www.linkedin.com/in/stephanie-martinez-73584826a/)
+    [LinkedIn: Stephanie Martinez](https://www.linkedin.com/in/stephanie-martinez-73584826a/)
     I'm always open to discussions about tech, potential collaborations, or just a friendly chat about hobbies and interests.
 
 <!-- 🌐 Check Out My Projects:
