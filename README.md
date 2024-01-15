@@ -26,7 +26,7 @@
 
 📫 Connect With Me:
 
-    [LinkedIn: Stephanie Martinez](https://www.linkedin.com/in/stephanie-martinez-73584826a/)
+[LinkedIn: Stephanie Martinez](https://www.linkedin.com/in/stephanie-martinez-
     I'm always open to discussions about tech, potential collaborations, or just a friendly chat about hobbies and interests.
 
 <!-- 🌐 Check Out My Projects:
